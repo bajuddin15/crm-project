@@ -1,0 +1,18 @@
+.main_header {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  .auth_button {
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    background: teal;
+    color: white;
+    border: 1px solid teal;
+    border-radius: 10px;
+
+    &:hover {
+      background: white;
+      color: teal;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.conistable {
+  .searchbar {
+    width: 100%;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    svg {
+    }
+
+    .search_input {
+      border: none;
+      outline: none;
+      font-size: 18px;
+      width: 100%;
+    }
+  }
+}
