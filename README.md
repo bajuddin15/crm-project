@@ -3,7 +3,7 @@ it is a crypto hunter app build by ReactJs, NodeJs, Typescript etc.
 
 # Project Running Instruction -
 
-Download zip file of this project and extract the file and open this on any editor like vscode etc
+Download zip file of this project by click Code button and extract the file and open this on any editor like vscode etc
 
 open a new terminal
 
