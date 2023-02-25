@@ -23,7 +23,9 @@ make a .env file in root directory and paste this info -
 
 
 PORT=4000
+
 MONGO_URI="mongodb+srv://bajuddin-khan:Bajuddin1508@ecommercecluster1.suzng.mongodb.net/?retryWrites=true&w=majority"
+
 JWT_SECRET=BajuddinKhanSecret
 
 
